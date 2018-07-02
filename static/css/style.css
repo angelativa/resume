@@ -86,28 +86,30 @@ body {
   margin: 0;
 }
 .container {
-  background-color: #f8f8f8;
-  padding: 30px;
+
 }
 .my-resume {
-  max-width: 840px;
   margin: 0 auto;
   background-color: #fff;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
-  padding: 30px;
+  padding: 20px;
 }
 .user-info-main {
   border-bottom: 1px solid #e5e6e8;
 }
 .info-body {
-  padding: 0 100px;
+  padding: 0 80px;
 }
 .first-line {
   display: inline;
 }
 h3 {
   border-bottom: 1px dashed #ccc;
-  padding: 6px 0px;
+  padding: 10px 0px;
+  font-size: 1em;
+}
+h4 {
+    margin: 15px 0;
 }
 .info-body ul {
   list-style: none;
@@ -121,7 +123,7 @@ h3 {
 }
 .info-body ul li .label {
   display: inline-block;
-  width: 100px;
+  width: 80px;
   color: rgba(0, 0, 0, 0.87);
   font-weight: bold;
   padding: 4px 0;
@@ -133,7 +135,7 @@ h3 {
 }
 .about-body,
 .skill-body {
-  padding: 0 100px;
+  padding: 0 80px;
   font-size: 14px;
 }
 .dot {

@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/angelativa/resume#readme",
   "dependencies": {
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
     "less": "^3.0.4"
   }
 }
